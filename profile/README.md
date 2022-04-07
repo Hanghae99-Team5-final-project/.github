@@ -13,8 +13,8 @@
 ## 팀 구성
 | 이름     | 깃허브 주소                                                | 포지션     |
 |:--------:|:----------------------------------------------------------:|:-----------:|
-| 김재민 | [https://github.com/suchan0](https://github.com/suchan0)                     | 프론트     |
-| 최성원 | [https://github.com/CSW7057](https://github.com/CSW7057)                     | 백엔드     |
+| 김재민(부팀장) | [https://github.com/suchan0](https://github.com/suchan0)                     | 프론트     |
+| 최성원(팀장) | [https://github.com/CSW7057](https://github.com/CSW7057)                     | 백엔드     |
 | 이용만 | [https://github.com/2yongman](https://github.com/2yongman)                     | 백엔드     |
 | 이성민 | [https://github.com/DevUncle1588](https://github.com/DevUncle1588)                     | 백엔드     |
 | 서환희 | []()                     | 디자인     |
