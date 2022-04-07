@@ -1,5 +1,7 @@
 <!-- 서비스 간략설명  -->
 
+![image](https://user-images.githubusercontent.com/95603520/162253758-2ef642bd-d30b-4133-af81-364bfe194cd2.png)
+
 <h1 align="left"> SPRING WATCH<br/></h1>
 
 
